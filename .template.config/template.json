@@ -1,0 +1,13 @@
+{
+	"$schema": "http://json.schemastore.org/template",
+	"author": "Sam Vanwelsenaere",
+	"classifications": [
+		"Web",
+		"WebApi",
+		"Onion"
+	],
+	"identity": "SamVanwelsenaere.OnionTemplate.CSharp",
+	"name": "Sam Vanwelsenaere Onion Architecture Web Api",
+	"shortName": "onionwebapi",
+	"sourceName": "OnionTemplate"
+}
